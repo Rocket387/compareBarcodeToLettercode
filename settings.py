@@ -1,0 +1,4 @@
+settings = {
+
+    'PWD': "ENTER PASSWORD FOR CONNECTION STRING HERE"
+}
